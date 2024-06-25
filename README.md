@@ -1,4 +1,4 @@
-# Gamified Quiz
+# Gamified Quiz Backend
 
 This is the backend application for the Quiz App. It provides API endpoints for user authentication, quiz management, and score submission.
 
@@ -27,11 +27,11 @@ This is the backend application for the Quiz App. It provides API endpoints for 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/quiz-app-backend.git
+    git clone 
     ```
 2. Navigate to the project directory:
     ```sh
-    cd quiz-app-backend
+    cd gq-backend
     ```
 3. Install dependencies:
     ```sh
@@ -66,7 +66,3 @@ This is the backend application for the Quiz App. It provides API endpoints for 
 - `routes/`: Contains route definitions.
 - `middlewares/`: Contains middleware functions (e.g., authentication).
 - `server.js`: Entry point of the application.
-
-## License
-
-This project is licensed under the MIT License.
